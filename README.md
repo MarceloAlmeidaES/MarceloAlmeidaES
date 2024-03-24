@@ -1,5 +1,5 @@
 # Olá, me chamo Marcelo 🙋‍♂️
-### 📚 Aprendendo Programação á 1 ano.<br>Estou estudando para me tornar um Desenvolvedor Fullstack ! <br>Atualmente estou fazendo Faculdade de Análise e Desenvolvimento de Sistemas. <br>Estou á aceitar qualquer [ emprego/estágio ] relacionado a Programação.<br>
+### 📚 Aprendendo Programação á 1 ano.<br>Estou estudando para me tornar um Desenvolvedor Fullstack ! <br>Atualmente estou fazendo Faculdade de Análise e Desenvolvimento de Sistemas. <br>Estou á aceitar qualquer [ emprego/estágio ] relacionado á Programação.<br>
 
 <div style="border:1px solid;width:490px;">
 <div style="text-align:center;">
