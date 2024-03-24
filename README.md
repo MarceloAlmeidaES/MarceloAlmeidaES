@@ -29,7 +29,7 @@
 
 <div style="text-align:start;">
 
-- ###  <b>Tecnologias que irei aprender:</b>
+- ###  📖 <b>Tecnologias que irei aprender:</b>
 </div>
 <div>
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
