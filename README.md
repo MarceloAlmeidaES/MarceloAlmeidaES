@@ -47,12 +47,12 @@
  </div><br>
  <div style="border:1px dashed green;width:350px;text-align:center;"><br>
 
-<img style="width:30px;" src="https://i.gifer.com/XVo6.gif">
+<img alt="carregando" style="width:30px;" src="https://i.gifer.com/XVo6.gif">
  </div><br>
  
  <div style="border:1px dashed green;width:350px;text-align:center;"><br>
 
- <img style="width:30px;" src="https://i.gifer.com/XVo6.gif">
+ <img alt="carregando" style="width:30px;" src="https://i.gifer.com/XVo6.gif">
  </div><br>
 
  </div>
